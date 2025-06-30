@@ -1,7 +1,7 @@
 
 ## 🧠 Team ID : LTVIP2025TMID42901
 
-Team Size : 4
+Team Size : 3
 
 Team Leader : Kedareswari Gorla
 
